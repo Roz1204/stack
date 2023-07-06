@@ -1,4 +1,4 @@
-## Stack Class
+# Stack Class
 The Stack class is a templated implementation of a stack data structure, based on the Vector class. It provides functionality to store and manipulate elements in a Last-In-First-Out (LIFO) manner. The Stack class is defined in the "Stack.hpp" header file and depends on the "Vector.hpp" header file.
 # Features
 The Stack class provides the following features:
