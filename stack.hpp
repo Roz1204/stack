@@ -17,6 +17,8 @@
             void swap(Stack& other ) noexcept;
             void push(T&& value);
             void pop();
+
+            // Added for testing
             constexpr T& operator[](int index) const;
     };
 
